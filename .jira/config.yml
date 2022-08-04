@@ -5,3 +5,4 @@ deployments:
       - "entw*"
     staging:
       - "pre*"
+      - "foo"
