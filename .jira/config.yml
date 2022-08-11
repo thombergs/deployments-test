@@ -4,6 +4,6 @@ deployments:
       - "dev*"
       - "entw*"
       - "baz*"
+      - "foo*"
     staging:
       - "pre*"
-      - "foo*"
