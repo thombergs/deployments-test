@@ -3,6 +3,7 @@ deployments:
     development:
       - "dev*"
       - "entw*"
+      - "baz*"
     staging:
       - "pre*"
       - "foo*"
