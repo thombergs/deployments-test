@@ -4,10 +4,10 @@ deployments:
       - "dev*"
       - "entw*"
       - "baz*"
-      - "foo*"
     staging:
       - "pre*"
     testing:
       - "test*"
     production:
       - "prod*"
+      - "foo*"
