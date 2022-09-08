@@ -1,0 +1,13 @@
+deployments:
+  environmentMapping:
+    development:
+      - "dev*"
+      - "entw*"
+      - "baz*"
+    staging:
+      - "pre*"
+    testing:
+      - "test*"
+    production:
+      - "prod*"
+      - "foo*"
